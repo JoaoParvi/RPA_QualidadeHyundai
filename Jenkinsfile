@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clonar o repositório') {
             steps {
-                git branch: 'QualidadePosVenda',
+                git branch: 'main',
                     url: 'https://github.com/JoaoParvi/RPA_QualidadeHyundai.git'
             }
         }
