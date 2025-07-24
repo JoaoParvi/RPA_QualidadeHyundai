@@ -1,0 +1,8 @@
+pandas
+openpyxl
+xlrd
+sqlalchemy
+pyodbc
+urllib3
+selenium
+webdriver-manager
